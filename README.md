@@ -1,5 +1,7 @@
 # AOP — Creative Agency Website (case study)
 
+[![AOP Creative Agency — live site](assets/live.webp)](https://aopcreativeagency.com/)
+
 > 🌐 **Live: [aopcreativeagency.com](https://aopcreativeagency.com/)**
 >
 > Designed and built by **Ahmet Yusuf Bursal**. The source code belongs to the
